@@ -1,4 +1,4 @@
-## Android-NFC
+## AndroidNFC
 
 NFC（Near Field Communication，近场通信）是一种数据传输技术。与Wi-Fi、蓝牙、红外线等数据传输技术的一个主要差异就是有效距离一般不能超过4厘米。但是NFC传输速度要比红外快。目前NFC已经出现了一些应用，例如电子标签识别、刷手机、点对点付款、身份识别、信息记录等.
 
@@ -10,12 +10,12 @@ NFC（Near Field Communication，近场通信）是一种数据传输技术。�
 
 ScreenShot文件夹为效果演示图（与项目代码无关）
 
-![](https://raw.githubusercontent.com/smartbetter/Android-NFC/master/ScreenShot/screenshot1.png)
-![](https://raw.githubusercontent.com/smartbetter/Android-NFC/master/ScreenShot/screenshot2.png)
-![](https://raw.githubusercontent.com/smartbetter/Android-NFC/master/ScreenShot/screenshot3.png)
-![](https://raw.githubusercontent.com/smartbetter/Android-NFC/master/ScreenShot/screenshot4.png)
-![](https://raw.githubusercontent.com/smartbetter/Android-NFC/master/ScreenShot/screenshot5.png)
-![](https://raw.githubusercontent.com/smartbetter/Android-NFC/master/ScreenShot/screenshot6.png)
+![](https://raw.githubusercontent.com/smartbetter/AndroidNFC/master/ScreenShot/screenshot1.png)
+![](https://raw.githubusercontent.com/smartbetter/AndroidNFC/master/ScreenShot/screenshot2.png)
+![](https://raw.githubusercontent.com/smartbetter/AndroidNFC/master/ScreenShot/screenshot3.png)
+![](https://raw.githubusercontent.com/smartbetter/AndroidNFC/master/ScreenShot/screenshot4.png)
+![](https://raw.githubusercontent.com/smartbetter/AndroidNFC/master/ScreenShot/screenshot5.png)
+![](https://raw.githubusercontent.com/smartbetter/AndroidNFC/master/ScreenShot/screenshot6.png)
 
 ## Usage
 
